@@ -8,7 +8,7 @@
 	<packaging>pom</packaging>
 	<name>my dummy project</name>
 	<description>dummy project purpose</description>
-	<version>1.0.3-RC01-SNAPSHOT</version>
+	<version>1.0.3-RAB-RC01-SNAPSHOT</version>
 
 	<properties/>
 
