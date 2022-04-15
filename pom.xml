@@ -8,7 +8,7 @@
 	<packaging>pom</packaging>
 	<name>my dummy project</name>
 	<description>dummy project purpose</description>
-	<version>1.0.3-RAB-RC01</version>
+	<version>1.0.3-RAB-RC01-SNAPSHOT</version>
 
 	<properties />
 
@@ -29,7 +29,6 @@
 		<url>https://github.com/AC-Rennes-OpenSource/dummy-project</url>
 		<connection>scm:git:https://git@github.com/AC-Rennes-OpenSource/dummy-project.git</connection>
 		<developerConnection>scm:git:https://git@github.com/AC-Rennes-OpenSource/dummy-project.git</developerConnection>     
-		<tag>1.0.3-RAB-RC01</tag> 
 	</scm>
 
 	<distributionManagement>
